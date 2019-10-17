@@ -1,7 +1,7 @@
 # FOI basics
 
 ![FOI response, or work of art?](img/foi.jpeg)
-_FOI, or work of art? Source: [Dylan Robertson, 2018](https://twitter.com/withfilesfrom/status/1040271200675606528)_
+_FOI, or early-20th-century suprematist work of art? Source: [Dylan Robertson, 2018](https://twitter.com/withfilesfrom/status/1040271200675606528)_
 
 A short presentation on the basics of filing freedom of information requests in Canada. The slides can be found here: https://tomcardoso.github.io/foi-basics/
 
